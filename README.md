@@ -1,6 +1,8 @@
 # KareKafa Nedir ? 
 KAREKAFA BİR HESAP ÇALICIDIR (Kısa ve Net)
 
+- SATIN ALMAK İÇİN TİCKET OLUŞTURUN
+
 #Karekafanın Özellikleri Nelerdir ? 
 - Discord Stealer
 - SonOyuncu (Şifreyle birlikte)
