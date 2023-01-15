@@ -1,0 +1,25 @@
+# KareKafa Nedir ? 
+KAREKAFA BİR HESAP ÇALICIDIR (Kısa ve Net)
+
+#Karekafanın Özellikleri Nelerdir ? 
+- Discord Stealer
+- SonOyuncu (Şifreyle birlikte)
+- Cookie  
+- Passwords
+- AutoFill
+- Creditcards
+- Screenshot
+- Desktop Files
+- Automatic Defender Disabler
+
+NOT : KAREKAFA VİRUSTOTAL, DEFENDER VB. TARAFINDAN ALGILANMAZ. JAR DOSYASIDIR İSTEĞİNİZE GÖRE EXEYE ÇEVRİLİR
+
+SÖZLEŞME : SATIN ALDIKTAN SONRA HERŞEYDEN SİZ SORUMLUSUNUZ STEALER GELEN GÜNCELLEMELERE BAĞLI OLARAK ÇALIŞMAYI DURDURABİLİR VEYA WEBHOOKUNUZ KAPATILABİLİR...
+İADE YOKTUR BAHANE KABUL EDİLMEZ !!
+
+FİYAT : 
+- 1 BUİLD 150 TL 
+
+KAMPANYA : 
+- 5 DAVET YAPARAK 30 TL İNDİRİM KAZANABİLİSİNİZ.
+- GETİRDİĞİNİZ HER MÜŞTERİ BAŞINA 40 TL KAZANIRSINIZ.
